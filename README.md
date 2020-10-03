@@ -9,7 +9,6 @@ Take-aways from each chapter:
 
 1. Intro to Python:
   -> Standard Math operation 
-        => (+, -, *, /, //-> i2nteger division, **-> Exponentiation, %-> Modulo/Remainder)
-        => Order of operations
-        => Number type  -> Integers and Floats
-                        -> Complex number types
+        => (+, -, *, /, //-> integer division, **-> Exponentiation, %-> Modulo Remainder)
+        => String - fString 
+        => input function - what user type in the console.
