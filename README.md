@@ -12,3 +12,5 @@ Take-aways from each chapter:
         => (+, -, *, /, //-> integer division, **-> Exponentiation, %-> Modulo Remainder)
         => String - fString 
         => input function - what user type in the console.
+        => nesting functions
+        
