@@ -13,4 +13,13 @@ Take-aways from each chapter:
         => String - fString 
         => input function - what user type in the console.
         => nesting functions
-        
+        => boolean functions "True" and "False", 
+                -> "and" gives the First value if it is False, otherwise gives the second value
+                -> "or" gives the First value if it is True, otherwise gives the second value
+  -> Lists
+      list = [elem1, elem2, ..., elemN]
+      list.add()
+      list.remove()
+
+  -> Tuple
+      tuple = (elem1, elem2, ..., elemN)
